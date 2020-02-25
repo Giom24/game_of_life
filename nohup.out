@@ -1,0 +1,1 @@
+2020-02-19 18:51:55 ERROR    cli      Spotify sink not found. Is Pulse running? Resorting to pulse amixer as mute method.

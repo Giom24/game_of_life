@@ -1,0 +1,12 @@
+[package]
+name = "game_of_life"
+version = "0.1.0"
+authors = ["Guillaume Fournier-Mayer <guillaume.fm@mailbox.org>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+pancurses = "*"
+clap = "2.33.0"
+
